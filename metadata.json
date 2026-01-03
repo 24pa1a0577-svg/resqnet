@@ -1,0 +1,8 @@
+
+{
+  "name": "RESQNET - Emergency Response & Community Support",
+  "description": "A robust, role-based disaster management platform enabling real-time coordination between Citizens, Volunteers, NGOs, and Government Officials.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
